@@ -12,4 +12,4 @@ This project analyzes New York City Airbnb listings to predict prices using mach
 - Model Evaluation
 
 ## Tools
-- Python, Pandas, Scikit-learn, Seaborn, Colab
+- Python: Pandas, Scikit-learn; Seaborn, Colab
